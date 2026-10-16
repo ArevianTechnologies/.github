@@ -1,24 +1,23 @@
-# Arevian Technologies · organization profile
+# Hello from Arevian.
 
-The public organization profile is [profile/README.md](profile/README.md). GitHub displays it on the organization overview after it reaches the default branch.
+<p align="center">
+  <img src="./assets/studio-ideas.png" alt="A curious cat with a coffee and an open notebook watches a paper rocket take flight from its sketches." width="100%">
+</p>
 
-## Contents
+We're a digital studio bringing design, engineering, and AI together. We make websites, applications, and tools that help people get things done — with room for a little delight along the way.
 
-- `profile/README.md` — the studio philosophy, Coming soon section, and public contacts.
-- `profile/assets/hacker-cat.png`, `roots-and-craft.png`, `human-and-machine.png`, `technology-for-humanity.png` — the original four illustrations.
-- `profile/assets/coming-soon.png` — a monochrome Coming soon scene with the hacker cat and eight names carved into rune-covered walls.
-- `profile/assets/ARTWORK.md` — provenance and the exact ImageGen prompt.
+## Got an idea? Pull up a chair.
 
-## Editing
+You don't need a perfect brief. A sketch, a stubborn problem, or a “wouldn't it be nice if…” is a good place to start.
 
-Keep image references relative to `profile/README.md`. All readable body copy stays native to GitHub. All five illustrations have descriptive alternatives. The Coming soon names appear only within the artwork and its accessible alternative.
+Maybe you need a website, want to build an app, or have a repetitive task you'd love to hand over to a useful AI assistant. Tell us what you're thinking. We'll help you work out a practical next step.
 
-The names Hive, Mimir, Tandem, Keri, Glace, Teleport, Intourist, and Ark were supplied for the Coming soon section. No release dates, public repository links, or product capabilities are invented.
+- **Say hello on Telegram:** [@ArevianStudio](https://t.me/ArevianStudio)
+- **Tell us about your project:** [hello@arevian.studio](mailto:hello@arevian.studio)
+- **Explore the studio and our work:** [arevian.studio](https://arevian.studio/)
 
-## Content sources
+The cat has already opened a fresh notebook.
 
-Services: [arevian.studio](https://arevian.studio/). Telegram and both emails: [official contacts](https://arevian.studio/contacts).
+---
 
-The philosophy and fifteen years of professional experience were supplied for this profile; this is not a company founding-date claim. The public repository inventory was checked on 17 October 2026. The organization had no public repositories before this profile repository was created.
-
-The original monochrome A-rune avatar inspired the artwork. The decorative wordmark was removed. The Coming soon illustration accompanies the four earlier panels, which remain in the profile.
+This repository is home to our GitHub organization profile and artwork. For the studio story and a peek at what's coming, [visit our organization profile](https://github.com/ArevianTechnologies).
