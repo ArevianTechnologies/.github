@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/hacker-cat.png" alt="Arevian's hooded hacker cat, with an A-shaped rune and white circuit engravings on black." width="100%">
+</p>
+
 # We still believe in people.
 
 At Arevian, we design and build websites, applications, and AI tools.
@@ -5,21 +9,6 @@ At Arevian, we design and build websites, applications, and AI tools.
 Good technology should give people something back: time, understanding, independence, or the courage to begin.
 
 [Explore our work](https://arevian.studio/) · [Talk to us on Telegram](https://t.me/ArevianStudio)
-
-## Coming soon
-
-In the making.
-
-<p align="center">
-  <img src="./assets/coming-soon.png" alt="A hooded hacker cat in a rune-carved workshop. The walls bear the names Hive, Mimir, Tandem, Keri, Glace, Teleport, Intourist, and Ark." width="100%">
-</p>
-
-<details>
-<summary>The names in the stone</summary>
-
-Hive · Mimir · Tandem · Keri · Glace · Teleport · Intourist · Ark
-
-</details>
 
 ## What fifteen years taught us
 
@@ -29,11 +18,19 @@ Those years taught us to recognise quality, take responsibility, and keep asking
 
 We still want to make beautiful things. We want the way we make them to feel human, too.
 
+<p align="center">
+  <img src="./assets/roots-and-craft.png" alt="An ancient A-shaped stone rune above deep roots that become circuit traces, beside a path through distant mountains." width="100%">
+</p>
+
 ## We believe in vibe coding
 
 For us, vibe coding means putting an idea into motion: talking it through, making a first version, seeing what it does, and following a better possibility when it appears. AI helps us try more possibilities while the idea is still taking shape.
 
 Experience gives that freedom a direction. We look beneath the first convincing result, understand the system, question the details, and care about what happens when a real person uses it.
+
+<p align="center">
+  <img src="./assets/human-and-machine.png" alt="A human hand draws a living thread of leaves and circuitry toward an intricate geometric intelligence." width="100%">
+</p>
 
 ## Technology can help make peace
 
@@ -47,6 +44,10 @@ Faith in humanity means believing people deserve tools built with generosity and
 
 Every project gives us somewhere to put this belief into practice.
 
+<p align="center">
+  <img src="./assets/technology-for-humanity.png" alt="Open hands shelter the Earth and an olive tree; circuits become branches and two birds fly into the open sky." width="100%">
+</p>
+
 ## What we bring to your idea
 
 **Design** — Brand identities, websites, and interfaces that give an idea a clear character and make it easier to understand.
@@ -56,6 +57,18 @@ Every project gives us somewhere to put this belief into practice.
 **AI** — Assistants, automation, and analytics that help people spend less time on repetitive work.
 
 Bring us a rough idea, a product that needs care, or a problem you have been carrying for a while. Let's find a useful first step together.
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</p>
+
+## Coming soon
+
+In the making.
+
+<p align="center">
+  <img src="./assets/coming-soon.png" alt="A hooded hacker cat in a rune-carved workshop. The walls bear the names Hive, Mimir, Tandem, Keri, Glace, Teleport, Intourist, and Ark." width="100%">
+</p>
 
 ## Contact
 
