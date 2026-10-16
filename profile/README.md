@@ -4,13 +4,13 @@
 
 # We still believe in people.
 
-Arevian is a digital studio for people with something they want to bring into the world. We bring design, engineering, and AI together to make websites, applications, and useful systems.
+At Arevian, we design and build websites, applications, and AI tools.
 
 Good technology should give people something back: time, understanding, independence, or the courage to begin.
 
 [Explore our work](https://arevian.studio/) · [Talk to us on Telegram](https://t.me/ArevianStudio)
 
-## Fifteen years, and a reason to begin again
+## What fifteen years taught us
 
 We bring fifteen years of experience to the work. There have been long nights, difficult lessons, and projects that took everything we had. We know what it feels like to work to exhaustion because you care about what you are making.
 
@@ -18,19 +18,23 @@ Those years taught us to recognise quality, take responsibility, and keep asking
 
 We still want to make beautiful things. We want the way we make them to feel human, too.
 
+<p align="center">
+  <img src="./assets/roots-and-craft.png" alt="An ancient A-shaped stone rune above deep roots that become circuit traces, beside a path through distant mountains." width="100%">
+</p>
+
 ## We believe in vibe coding
 
-There is something worth protecting in the moment an idea first comes alive.
-
-For us, vibe coding means putting that idea into motion: talking it through, making a first version, seeing what it does, and following a better possibility when it appears. AI makes this conversation faster, more open, and more playful.
+For us, vibe coding means putting an idea into motion: talking it through, making a first version, seeing what it does, and following a better possibility when it appears. AI helps us try more possibilities while the idea is still taking shape.
 
 Experience gives that freedom a direction. We look beneath the first convincing result, understand the system, question the details, and care about what happens when a real person uses it.
 
-We follow the spark, then do the careful work that makes a product worth trusting.
+<p align="center">
+  <img src="./assets/human-and-machine.png" alt="A human hand draws a living thread of leaves and circuitry toward an intricate geometric intelligence." width="100%">
+</p>
 
 ## Technology can help make peace
 
-We believe technology can bring people closer to a more peaceful world: by opening access to knowledge, easing everyday burdens, and helping us understand one another.
+We believe technology can help build a more peaceful world by opening access to knowledge, easing everyday burdens, and helping us understand one another.
 
 That possibility depends on what we put into it.
 
@@ -38,7 +42,11 @@ For us, love means attention, patience, and responsibility. It means listening b
 
 Faith in humanity means believing people deserve tools built with generosity and respect. It means keeping people at the centre, even as the machines become more capable.
 
-We want the future we help build to carry that care. Every project gives us somewhere to put this belief into practice.
+Every project gives us somewhere to put this belief into practice.
+
+<p align="center">
+  <img src="./assets/technology-for-humanity.png" alt="Open hands shelter the Earth and an olive tree; circuits become branches and two birds fly into the open sky." width="100%">
+</p>
 
 ## What we bring to your idea
 
@@ -60,5 +68,3 @@ Bring us a rough idea, a product that needs care, or a problem you have been car
 - **Projects & collaboration:** [hello@arevian.studio](mailto:hello@arevian.studio)
 - **Government & security:** [security@arevian.studio](mailto:security@arevian.studio)
 - **Studio & work:** [arevian.studio](https://arevian.studio/)
-
-A rough idea is enough to start a conversation.
